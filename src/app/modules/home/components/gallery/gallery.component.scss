@@ -1,0 +1,11 @@
+.carousel-inner {
+    height: 450px; /* Adjust the height as per your requirement */
+  }
+  
+  .carousel-image {
+    height: 100%; /* Ensures the image fills the entire height of the carousel */
+    object-fit: cover; /* Ensures the image covers the entire space of the container */
+    aspect-ratio: 3/2;
+    // mix-blend-mode: color-burn;
+  }
+  
